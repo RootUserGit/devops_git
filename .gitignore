@@ -1,0 +1,10 @@
+# Ignore all log files
+logs/
+
+# sensitive data and personal info
+*.env
+
+# files generated after compiling codes
+*.out
+*.class
+
